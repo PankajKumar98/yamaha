@@ -1,0 +1,25 @@
+.App {
+  min-height: 100vh;
+  color: white;
+  padding:10px 70px 0 100px;
+  font-family: 'Acme', sans-serif;
+  /* background-image: url('./images/images.jpg'); */
+}
+.App-header {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+.image{
+  height:400px;
+  width:600px;
+  float:left;
+}
+.layout{
+  display:inline;
+}
+#root{
+  background-color: #100c08;
+  margin: 0;
+}
